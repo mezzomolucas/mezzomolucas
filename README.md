@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
   <img src="banner.png" width="100%" />
 </div>
 
@@ -56,4 +55,3 @@ Se você busca um desenvolvedor focado em tecnologias de ponta e soluções mode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mezzomolucas0@gmail.com)
-</div>
