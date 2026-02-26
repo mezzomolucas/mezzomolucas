@@ -1,27 +1,29 @@
 # Olá, eu sou o Lucas Mezzomo! 👋
 
-### 🚀 Estudante de Engenharia de Software | Desenvolvedor Full Stack
+### 🚀 Estudante de Engenharia de Software | Full Stack Developer
 
-Transformando código em soluções que geram valor. Tenho foco em criar aplicações que resolvem problemas reais, com experiência prática que vai desde a concepção da interface até a estruturação de bancos de dados robustos. 
+Transformando código em soluções que geram valor. Tenho foco em criar aplicações que resolvem problemas reais, com experiência prática que vai desde a concepção da interface até a estruturação de bancos de dados robustos.
 
-Atualmente, dedico-me ao desenvolvimento de sistemas de gestão e reservas, buscando o equilíbrio ideal entre performance técnica e uma experiência de usuário intuitiva.
+Atualmente, dedico meu tempo aos estudos de tecnologias modernas, à faculdade de Engenharia de Software e à criação de sites e webapps de alta performance, sempre integrando o poder da Inteligência Artificial para otimizar o desenvolvimento e a entrega de resultados.
 
 ---
 
-### 💼 Experiência & Projetos
-- **Desenvolvimento de Sistemas:** Experiência na criação de plataformas de reservas e gestão, focadas em otimização de processos e interface funcional.
-- **Histórico Profissional:** Atuei como Auxiliar de Almoxarifado na IDP (7 meses), onde desenvolvi competências em organização logística e gestão de inventário, competências que hoje aplico na estruturação de dados.
+### 💼 Experiência & Foco
+- **Desenvolvimento Web:** Criação de sites e aplicações web modernas e responsivas.
+- **Inteligência Artificial:** Aplicação de IA no fluxo de desenvolvimento e em funcionalidades de software.
+- **Histórico Profissional:** 7 meses como Auxiliar de Almoxarifado na IDP, onde desenvolvi competências em organização e processos, aplicadas hoje na arquitetura de sistemas.
 - **Formação:** Graduando em Engenharia de Software.
 
 ### 🛠️ Toolbox Técnica
 - **Linguagens & Frameworks:** Python, JavaScript.
 - **Banco de Dados:** PostgreSQL, Supabase.
 - **Infraestrutura:** Docker.
+- **Inovação:** Implementação e estudo de IA aplicadas ao desenvolvimento.
 
 ---
 
 ### 📫 Vamos conversar sobre seu projeto?
-Se você precisa de uma solução personalizada que resolva um problema real do seu negócio, sinta-se à vontade para entrar em contato:
+Se você busca um desenvolvedor focado em tecnologias de ponta e soluções modernas, entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mezzomolucas0@gmail.com)
