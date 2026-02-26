@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" width="100%" />
+</div>
+
 # Olá, eu sou o Lucas Mezzomo! 👋
 
 ### 🚀 Estudante de Engenharia de Software | Full Stack Developer
